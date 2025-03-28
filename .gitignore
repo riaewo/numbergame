@@ -1,0 +1,27 @@
+# Файлы сборки
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.dll
+*.lib
+
+# Папки сборки
+Debug/
+Release/
+x64/
+build/
+out/
+
+# Файлы IDE
+.vs/
+.vscode/
+*.sln
+*.vcxproj*
+*.filters
+
+# Системные файлы
+Thumbs.db
+.DS_Store
