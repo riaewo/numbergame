@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+#include <string>
 
 using namespace std;
 
@@ -8,6 +9,11 @@ int main() {
     setlocale(0, "");
     // Инициализация генератора случайных чисел
     srand(time(0));
+
+    cout << "Новая функция: введите ваше имя: ";
+    string name;
+    cin >> name;
+    cout << "Привет, " << name << "!" << endl;
 
     // Загадываем число от 1 до 100
     int secretNumber = rand() % 100 + 1;
