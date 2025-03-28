@@ -5,5 +5,5 @@
 ## Сборка и запуск
 
 ```bash
-g++ numbergame.cpp -o numbergame
+g++ Source.cpp -o numbergame
 ./numbergame
