@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LERA\\source\\repos\\numbergame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0B4162-994B-42DB-BEEB-5EC491BA5B32}|numbergame\\numbergame.vcxproj|C:\\Users\\LERA\\source\\repos\\numbergame\\numbergame\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A0B4162-994B-42DB-BEEB-5EC491BA5B32}|numbergame\\numbergame.vcxproj|solutionrelative:numbergame\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\LERA\\source\\repos\\numbergame\\numbergame\\Source.cpp",
+              "RelativeDocumentMoniker": "numbergame\\Source.cpp",
+              "ToolTip": "C:\\Users\\LERA\\source\\repos\\numbergame\\numbergame\\Source.cpp",
+              "RelativeToolTip": "numbergame\\Source.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-28T10:32:49.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

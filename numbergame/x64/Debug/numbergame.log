@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\LERA\source\repos\numbergame\numbergame\Source.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  numbergame.vcxproj -> C:\Users\LERA\source\repos\numbergame\x64\Debug\numbergame.exe
