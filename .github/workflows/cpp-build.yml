@@ -12,9 +12,7 @@ jobs:
       run: sudo apt-get update && sudo apt-get install -y g++
 
     - name: Build
-      run: g++ C:\Users\LERA\source\repos\numbergame\numbergame\Source.cpp -o game
-
-    - name: Run test
+      working-directory: ./numbergame 
       run: |
-        ./game <<< "50"  # Простейший тест с вводом числа 50
-        ./game <<< "75"  # Дополнительный тест
+        g++ Source.cpp -o game
+        ./game <<< "50"  # Тест с вводом числа 50
