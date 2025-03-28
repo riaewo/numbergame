@@ -12,7 +12,7 @@ jobs:
       run: sudo apt-get update && sudo apt-get install -y g++
 
     - name: Build
-      run: g++ Source.cpp -o game
+      run: g++ C:\Users\LERA\source\repos\numbergame\numbergame\Source.cpp -o game
 
     - name: Run test
       run: |
