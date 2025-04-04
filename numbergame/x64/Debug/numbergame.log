@@ -1,3 +1,4 @@
 ﻿  Source.cpp
-C:\Users\LERA\source\repos\numbergame\numbergame\Source.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\LERA\source\repos\numbergame\numbergame\Source.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\LERA\source\repos\numbergame\x64\Debug\numbergame.exe при последней инкрементной компоновке; выполняется полная компоновка
   numbergame.vcxproj -> C:\Users\LERA\source\repos\numbergame\x64\Debug\numbergame.exe

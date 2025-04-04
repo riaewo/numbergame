@@ -7,6 +7,7 @@ using namespace std;
 
 int main() {
     setlocale(0, "");
+
     // »нициализаци€ генератора случайных чисел
     srand(time(0));
 
